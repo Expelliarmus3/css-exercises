@@ -6,6 +6,7 @@
 }
 
 .box {
+  display: flexbox;
   background: palevioletred;
   font-weight: bold;
   text-align: center;
